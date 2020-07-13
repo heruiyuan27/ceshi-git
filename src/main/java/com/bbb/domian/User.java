@@ -6,4 +6,5 @@ public class User {
     private  String addr;
     private  int id;
     private  String city;
+    private  int cityid;
 }
